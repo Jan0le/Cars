@@ -1,0 +1,15 @@
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\bin\Debug\net6.0\car.exe
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\bin\Debug\net6.0\car.deps.json
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\bin\Debug\net6.0\car.runtimeconfig.json
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\bin\Debug\net6.0\car.dll
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\bin\Debug\net6.0\ref\car.dll
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\bin\Debug\net6.0\car.pdb
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.csproj.AssemblyReference.cache
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.AssemblyInfoInputs.cache
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.AssemblyInfo.cs
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.csproj.CoreCompileInputs.cache
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.dll
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\ref\car.dll
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.pdb
+C:\Users\Jan-Ole\Downloads\Car4\Car4\car\obj\Debug\net6.0\car.genruntimeconfig.cache
